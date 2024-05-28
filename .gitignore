@@ -1,1 +1,16 @@
 /execute
+# OUT dir
+.idea
+/out
+/out1
+/logs
+/deploy
+/deploy_generator
+.roku-deploy-staging
+.roku_fw_framework
+
+
+# IDE - VSCode
+.history/*
+
+*.DS_Store
